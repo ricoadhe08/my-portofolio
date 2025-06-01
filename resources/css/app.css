@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@source "../views";
+
+@view-transition {
+    navigation: auto;
+}
+
+[x-reveal] {
+    position: relative;
+    /* top: 50px; */
+    left: 50px;
+    opacity: 0;
+}
+
+.noto-sans-display-500 {
+    font-family: "Noto Sans Display", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+.noto-sans-display-300 {
+    font-family: "Noto Sans Display", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+  
