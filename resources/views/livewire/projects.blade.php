@@ -53,7 +53,7 @@
             </div>
             <div class="my-2 text-right">
                 <a href="https://ricoadityahweb.site" class="px-2 py-1 text-xs font-medium text-center text-black bg-gray-200 rounded-lg">VISIT</a>
-                <a class="px-2 py-1 text-xs font-medium text-center text-white bg-gray-700 rounded-lg">GITHUB</a>
+                <a href="https://github.com/ricoadhe08/my-portofolio" class="px-2 py-1 text-xs font-medium text-center text-white bg-gray-700 rounded-lg">GITHUB</a>
             </div>
         </div>
         
